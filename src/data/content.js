@@ -16,8 +16,8 @@ export const PROFILE = {
   email: 'abd.kh31135@gmail.com',
   phone: '+966538591812',
   phoneLabel: '+966 53 859 1812',
-  linkedin: 'https://www.linkedin.com/',
-  linkedinLabel: '/in/abdullah-farooq',
+  linkedin: 'https://www.linkedin.com/in/abdullah-farooq-466b0531b/',
+  linkedinLabel: '/in/abdullah-farooq-466b0531b',
   location: 'Jeddah, Saudi Arabia',
   availability: 'Available across the Kingdom',
 };

@@ -182,5 +182,4 @@ Escape closes, arrow keys page, and body scroll is locked while open. Tiles are
 
 ## Still to fill in
 
-- The LinkedIn URL in [src/data/content.js](src/data/content.js) is a placeholder.
 - Real site photography for the Equipment gallery (see *Photography*).
